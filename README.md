@@ -1,2 +1,3 @@
 # Udacity_AI
-Thin includes all the code i word with while enroled in the Udacity_AI course 
+this includes all the project i word  while I was enroled in  Udacity_AI course 
+
